@@ -2,12 +2,12 @@
 // Gabriela Chiuffa Tunes and Marcelo Bussotti Reyes
 // Universidade Federal do ABC - 2016
 
-
+// This line is a test
 // todo
 // check if last_head_out inicialized to high value is working
 
 
-#include <Stepper.h> // inclui uma biblioteca para programar motor de passo (MP)
+#include <Stepper.h>  // inclui uma biblioteca para programar motor de passo (MP)
 
 // Task parameters
 int criterion 	= 1600 ; 	//tempo de barra pressionada deve ser >= a essa variável (em ms)
